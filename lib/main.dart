@@ -12,18 +12,18 @@ void main() async {
     
     options:const FirebaseOptions(
 
-  // for merchendise // name: "test1",
-      // apiKey: "AIzaSyDOYTB5MCy_VKeDlzcS8DThcMk7eYfSl6I",
-      // appId: "1:39721889660:android:2e9987b4afa2e1c45f7ef9",
-      // messagingSenderId:"39721889660",
-      // projectId: "ecommerce-eb54d",
-      // storageBucket: 'ecommerce-eb54d.appspot.com'),
+  // for merchendise // name: "test1", //firebase : ecommerce
+      // apiKey: "",
+      // appId: "",
+      // messagingSenderId:"",
+      // projectId: "",
+      // storageBucket: ''),
 
-// for MIS
-     apiKey: "AIzaSyCsLkA2-oUJFaCW7kA5tkMuqemDPfS9INw",
-     appId: "1:816540763282:android:234b28664f8b0d2622d24b",
-     messagingSenderId:"816540763282",
-     projectId: "alumnidekho-2fd65",)
+// for MIS //firebase : alumnidekho
+     apiKey: "",
+     appId: "",
+     messagingSenderId:"",
+     projectId: "",)
 
   );  // Initialize Firebase
   runApp(MyApp());
